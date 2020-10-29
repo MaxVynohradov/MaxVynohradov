@@ -36,8 +36,9 @@ I believe that programming and computer science entirely is my calling in life. 
 
 ## [<img align="left" alt="MaxVynohradov | GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] Also on Medium
 
-![vinogradov.max97's Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=vinogradov.max97&limit=6)
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinogradov.max97/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinogradov.max97/0" alt="Recent Article 0"> 
 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinogradov.max97/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinogradov.max97/1" alt="Recent Article 1"> 
 ---
 
 <details open>
