@@ -41,10 +41,10 @@ I believe that programming and computer science entirely is my calling in life. 
 <br>
 <p align = "center">
   <img alt="MaxVynohradov's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=MaxVynohradov&show_icons=true&theme=buefy&line_height=27">
-  <br />
-  <img alt="MaxVynohradov's Github Stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MaxVynohradov&hide=css,html&theme=buefy">
+  <img alt="MaxVynohradov's Github Stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MaxVynohradov&langs_count=3&hide=css,html&theme=buefy">
 </p>
 </details>
+
 
 ---
 
