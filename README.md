@@ -1,11 +1,11 @@
-[<img align="right" alt="MaxVynohradov | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="right" alt="MaxVynohradov | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="right" alt="MaxVynohradov | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="right" alt="MaxVynohradov | GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="right" alt="MaxVynohradov | GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto]
-[<img align="right" alt="MaxVynohradov | Gmail" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg?color=#12100E" />][gmail]
-[<img align="right" alt="MaxVynohradov | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="right" alt="MaxVynohradov | GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="right" alt="MaxVynohradov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="right" alt="MaxVynohradov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="right" alt="MaxVynohradov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="right" alt="MaxVynohradov | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="right" alt="MaxVynohradov | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto]
+[<img align="right" alt="MaxVynohradov | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg?color=#12100E" />][gmail]
+[<img align="right" alt="MaxVynohradov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="right" alt="MaxVynohradov | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 
 ### 👋 &nbsp;&nbsp;Hi there, I'm Maksym Vynohradov
