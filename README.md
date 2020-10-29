@@ -13,19 +13,26 @@
 ### Bio
 I believe that programming and computer science entirely is my calling in life. I develop my technical and soft skills; get new experience and knowledge to be a role model in my field. Also, I'm big fan of Serverless, AWS Lambdas, Node.js and TypeScript.
 
-- 💼 Currently working at Brocoders
-- ✍🏻 I wrote dev articles on my [Vynohradov Blog](https://maxvynohradov.github.io/blog) and also medium.com, dev.to
-- 📎 Currently deveop fintech product
+- 💼 &nbsp;Currently working at Brocoders
+- ✍🏻 &nbsp;I wrote dev articles on my [Vynohradov Blog](https://maxvynohradov.github.io/blog) and also medium.com, dev.to
+- 📎 &nbsp;Currently deveop fintech product
 
 ---
 
 ### Some facts about me
 
-- 📍 Currently live in Sumy, Ukraine
-- 🐶 Like dogs
-- 🎵 Addicted to Electro-Swing, piano covers and rest good music
-- ✏️ Trying to dive into Generative Art.
-- 📚 Sometimes become bookworm - continuuosly reading technical and non-technical litterature
+- 📍 &nbsp; Currently live in Sumy, Ukraine
+- 🐶 &nbsp; Like dogs
+- 🎵 &nbsp; Addicted to Electro-Swing, piano covers and rest good music
+- ✏️ &nbsp; Trying to dive into Generative Art.
+- 📚 &nbsp; Sometimes become bookworm - continuuosly reading technical and non-technical litterature
+
+---
+
+###📝 &nbsp;&nbsp; Latest Blog Posts
+
+- [What We Have Learned While Using AWS Lambda in Our Production Cycles for More than One Year](https://maxvynohradov.github.io/blog/what-we-have-learned-while-using-aws-lambda-in-our-production-cycles-for-more-than-one-year/)
+- [Crime and Punishment: Hype Driven Development](https://maxvynohradov.github.io/blog/crime-and-punishment-hype-driven-development/)
 
 ---
 
