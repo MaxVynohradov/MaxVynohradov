@@ -13,6 +13,10 @@
 ### Bio
 I believe that programming and computer science entirely is my calling in life. I develop my technical and soft skills; get new experience and knowledge to be a role model in my field. Also, I'm big fan of Serverless, AWS Lambdas, Node.js and TypeScript.
 
+- 💼 Currently working at Brocoders
+- ✍🏻 I wrote dev articles on my [Vynohradov Blog](https://maxvynohradov.github.io/blog) and also medium.com, dev.to
+- 📎 Currently deveop fintech product
+
 ---
 
 ### Some facts about me
@@ -20,8 +24,8 @@ I believe that programming and computer science entirely is my calling in life. 
 - 📍 Currently live in Sumy, Ukraine
 - 🐶 Like dogs
 - 🎵 Addicted to Electro-Swing, piano covers and rest good music
-- 🌐 Trying to dive into Generative Art.
-- 👋 Sometimes become bookworm - continuuosly reading technical and non-technical litterature
+- ✏️ Trying to dive into Generative Art.
+- 📚 Sometimes become bookworm - continuuosly reading technical and non-technical litterature
 
 ---
 
