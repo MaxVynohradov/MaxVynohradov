@@ -16,10 +16,10 @@
 <img align="left" alt="MaxVynohradov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MaxVynohradov&show_icons=true&hide_border=true&theme=buefy" />
 
 [gmail]: mailto:vinogradov.max97@gmail.com
-[twitter]: https://twitter.com/max_vynohradov/
+[twitter]: https://twitter.com/max_vynohradov
 [telegram]: https://t.me/max_vynogradov
-[linkedin]: https://www.linkedin.com/in/max-vynohradov/
+[linkedin]: https://www.linkedin.com/in/max-vynohradov
 [github]: https://github.com/MaxVynohradov
 [medium]: https://medium.com/@vinogradov.max97
 [devto]: https://dev.to/max_vynohradov
-[instagram]: https://www.instagram.com/vynohradov.max/
+[instagram]: https://www.instagram.com/vynohradov.max
