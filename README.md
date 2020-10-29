@@ -1,6 +1,6 @@
-### Hi there, I'm Maksym Vynohradov 👋
+### 👋 Hi there, I'm Maksym Vynohradov
 
-### Connect with me:
+### :link: Connect with me:
 
 [<img align="left" alt="MaxVynohradov | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MaxVynohradov | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
