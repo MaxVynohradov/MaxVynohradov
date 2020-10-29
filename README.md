@@ -12,7 +12,7 @@
 
 #### Team Lead, Senior Software Engineer (Node.js, TS, Serverless, AWS Cloud Services, React.js)
 
-I believe that programming and computer science entirely is my calling in life. I develop my technical and soft skills; get new experience and knowledge to be a role model in my field. Also, I'm big fan of _Serverless_, _AWS Lambdas_, _Node.js_ and _TypeScript_.
+I believe that programming and computer science entirely is my calling in life. I develop my technical and soft skills; get new experience and knowledge to be a role model in my field. Also, I'm big fan of _Serverless_, _AWS Lambdas_, _Node.js_ and _TypeScript_, and [much more...](https://maxvynohradov.github.io/me)
 
 - 💼 &nbsp; Now working at Brocoders
 - ✍🏻 &nbsp;I wrote dev articles on my [Vynohradov Blog](https://maxvynohradov.github.io/blog) and also medium.com, dev.to
