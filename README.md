@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Maksym Vynohradov 👋
 
 <!--
 **MaxVynohradov/MaxVynohradov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" alt="MaxVynohradov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MaxVynohradov&show_icons=true&hide_border=true&theme=buefy" />
+
