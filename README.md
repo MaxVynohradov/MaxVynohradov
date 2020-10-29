@@ -1,24 +1,41 @@
-[<img align="right" alt="MaxVynohradov | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="right" alt="MaxVynohradov | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="right" alt="MaxVynohradov | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="right" alt="MaxVynohradov | GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="right" alt="MaxVynohradov | GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto]
-[<img align="right" alt="MaxVynohradov | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg?color=#12100E" />][gmail]
-[<img align="right" alt="MaxVynohradov | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="right" alt="MaxVynohradov | GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="right" alt="MaxVynohradov | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="right" alt="MaxVynohradov | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="right" alt="MaxVynohradov | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="right" alt="MaxVynohradov | GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="right" alt="MaxVynohradov | GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto]
+[<img align="right" alt="MaxVynohradov | Gmail" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg?color=#12100E" />][gmail]
+[<img align="right" alt="MaxVynohradov | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="right" alt="MaxVynohradov | GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 
+### 👋 &nbsp;&nbsp;Hi there, I'm Maksym Vynohradov
 
-### 👋 Hi there, I'm Maksym Vynohradov
-
-### About me
-<hr />
+### Bio
 I believe that programming and computer science entirely is my calling in life. I develop my technical and soft skills; get new experience and knowledge to be a role model in my field. Also, I'm big fan of Serverless, AWS Lambdas, Node.js and TypeScript.
 
 ---
 
-<img align="left" alt="MaxVynohradov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MaxVynohradov&show_icons=true&hide_border=true&theme=buefy" />
+### Some facts about me
 
+- 📍 Currently live in Sumy, Ukraine
+- 🐶 Like dogs
+- 🎵 Addicted to Electro-Swing, piano covers and rest good music
+- 🌐 Trying to dive into Generative Art.
+- 👋 Sometimes become bookworm - continuuosly reading technical and non-technical litterature
+
+---
+
+<details open>
+ <summary> 📈 &nbsp;&nbsp;<b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img alt="MaxVynohradov's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=MaxVynohradov&show_icons=true&theme=buefy&line_height=27">
+  <br />
+  <img alt="MaxVynohradov's Github Stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MaxVynohradov&hide=css,html&theme=buefy">
+</p>
+</details>
+
+---
 
 [gmail]: mailto:vinogradov.max97@gmail.com
 [twitter]: https://twitter.com/max_vynohradov
