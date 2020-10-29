@@ -29,10 +29,14 @@ I believe that programming and computer science entirely is my calling in life. 
 
 ---
 
-###📝 &nbsp;&nbsp; Latest Blog Posts
+### 📝 &nbsp;&nbsp; Latest Blog Posts
 
 - [What We Have Learned While Using AWS Lambda in Our Production Cycles for More than One Year](https://maxvynohradov.github.io/blog/what-we-have-learned-while-using-aws-lambda-in-our-production-cycles-for-more-than-one-year/)
 - [Crime and Punishment: Hype Driven Development](https://maxvynohradov.github.io/blog/crime-and-punishment-hype-driven-development/)
+
+## [<img align="left" alt="MaxVynohradov | GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] Also on Medium
+
+![vinogradov.max97's Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=vinogradov.max97&limit=6)
 
 ---
 
