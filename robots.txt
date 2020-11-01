@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxvynohradov.github.io/sitemap.xml
+Host: https://maxvynohradov.github.io
