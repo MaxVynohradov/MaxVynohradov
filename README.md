@@ -40,6 +40,8 @@ I believe that programming and computer science entirely is my calling in life. 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinogradov.max97/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinogradov.max97/0" alt="Recent Article 0"> 
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinogradov.max97/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinogradov.max97/1" alt="Recent Article 1"> 
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinogradov.max97/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinogradov.max97/2" alt="Recent Article 2"> 
 ---
 
 <details open>
