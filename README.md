@@ -32,6 +32,7 @@ I believe that programming and computer science entirely is my calling in life. 
 
 ### 📝 &nbsp;&nbsp; Latest Blog Posts
 
+- [Tools to Manage the NPM Dependencies in Your Project](https://maxvynohradov.github.io/blog/tools-to-manage-npm-dependency-in-your-project-as-a-professional)
 - [What We Have Learned While Using AWS Lambda in Our Production Cycles for More than One Year](https://maxvynohradov.github.io/blog/what-we-have-learned-while-using-aws-lambda-in-our-production-cycles-for-more-than-one-year/)
 - [Crime and Punishment: Hype Driven Development](https://maxvynohradov.github.io/blog/crime-and-punishment-hype-driven-development/)
 
