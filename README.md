@@ -22,7 +22,7 @@ I believe that programming and computer science entirely is my calling in life. 
 
 ### Some facts about me
 
-- 📍 &nbsp; Currently live in Sumy, Ukraine
+- 📍 &nbsp; Currently live in Ukraine
 - 🐶 &nbsp; Like dogs
 - 🎵 &nbsp; Addicted to Electro-Swing, piano covers and rest good music
 - ✏️ &nbsp; Trying to dive into Generative Art.
